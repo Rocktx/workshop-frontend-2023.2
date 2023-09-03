@@ -1,8 +1,16 @@
-# React + Vite
+<h1>Workshop Frontend 2023.2 👨‍💻</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Desafio Star Wars 🌠🚀</h2>
 
-Currently, two official plugins are available:
+## Sobre:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p> projeto consiste em uma página na web com o tema do filme Star Wars, que inclui uma página inicial com informações sobre o filme, bem como uma galeria com detalhes sobre os personagens do filme. É importante destacar que os dados relativos aos personagens foram obtidos por meio de uma API.</p>
+
+<p>Desafio relacionado ao projeto de extensão <b>Fábrica de Software</b> do Centro Universitário de João Pessoa - UNIPÊ.</p>
+
+## ferramentas e linguagens
+
+- React JS
+- Html
+- Css
+- Javascript
